@@ -1,10 +1,11 @@
-package com.lightbend.akka.sample;
+package com.deocampo.akka.sample;
 
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
-import com.lightbend.akka.sample.Greeter.*;
 
 import java.io.IOException;
+
+import com.deocampo.akka.sample.Greeter.*;
 
 public class AkkaQuickstart {
   public static void main(String[] args) {

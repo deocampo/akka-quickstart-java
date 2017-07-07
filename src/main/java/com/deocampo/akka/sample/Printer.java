@@ -1,4 +1,4 @@
-package com.lightbend.akka.sample;
+package com.deocampo.akka.sample;
 
 import akka.actor.AbstractActor;
 import akka.actor.ActorRef;
